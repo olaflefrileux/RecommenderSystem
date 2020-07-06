@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TU/NHa1osL0oxHb49O9y4aTd4AkQbQGSH2gq67CoFxsS1wO5E49/Rzvz33MGbcE21YmyObev5jE1mimmKz3nGw==",
+  "success": true,
+  "projectFilePath": "D:\\AlgorithmeTp\\RecommenderSystem\\RecommenderSystem\\RecommenderSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tenmo\\.nuget\\packages\\csvhelper\\15.0.5\\csvhelper.15.0.5.nupkg.sha512",
+    "C:\\Users\\tenmo\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
